@@ -23,7 +23,7 @@ A lightweight, Python-based real-time system monitoring tool. This project was d
 ### 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ardabicerel/SystemHealthMonitor.git](https://github.com/ardabicerel/SystemHealthMonitor.git)
+   git clone https://github.com/ardabicerel/SystemHealthMonitor.git
    ```
 2. Install dependencies:
    ```bash
@@ -53,7 +53,7 @@ Python tabanlı, hafif ve gerçek zamanlı bir sistem izleme aracıdır. Bu proj
 ### 🛠️ Kurulum ve Kullanım
 1. Depoyu klonlayın:
    ```bash
-   git clone [https://github.com/ardabicerel/SystemHealthMonitor.git](https://github.com/ardabicerel/SystemHealthMonitor.git)
+   git clone https://github.com/ardabicerel/SystemHealthMonitor.git
    ```
 2. Gerekli kütüphaneleri yükleyin:
    ```bash
