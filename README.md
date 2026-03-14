@@ -41,7 +41,7 @@ Python tabanlı, hafif ve gerçek zamanlı bir sistem izleme aracıdır. Bu proj
 
 ### ✨ Özellikler
 - **Canlı İzleme:** CPU kullanımı, RAM doluluk oranı ve Disk alanlarını 10 saniyelik aralıklarla takip eder.
-- 
+  
 - **Akıllı Hata Yönetimi:** try-except blokları kullanarak, belirli sürücüler (örn: E: sürücüsü) takılı olmasa bile programın çökmeden çalışmasını sağlar.
 
 - **Görsel Uyarılar:** ANSI renk kodları ile kritik eşiklerde (%80+ CPU veya %90+ RAM) terminal üzerinde görsel uyarılar verir.
@@ -50,7 +50,7 @@ Python tabanlı, hafif ve gerçek zamanlı bir sistem izleme aracıdır. Bu proj
 
 - **Profesyonel Arayüz:** subprocess kullanarak her güncellemede terminali temizler ve düzenli bir görünüm sağlar.
 
-🛠️ Kurulum ve Kullanım
+### 🛠️ Kurulum ve Kullanım
 1. Depoyu klonlayın:
    ```bash
    git clone [https://github.com/ardabicerel/SystemHealthMonitor.git](https://github.com/ardabicerel/SystemHealthMonitor.git)
